@@ -1,0 +1,2 @@
+ls -l --time-style=full-iso max_shell
+-rw-rw-r-- 1 max max 51 2025-11-13 10:26:10.891856369 +0300 max_shell

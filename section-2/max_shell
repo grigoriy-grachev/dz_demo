@@ -1,0 +1,2 @@
+max@ws01:~/Documents/dz$ echo $SHELL
+/usr/bin/bash
